@@ -1,0 +1,62 @@
+.form{
+    max-width: 728px;
+    height: 14px;
+    width: 100%;
+    display: flex;
+    position:sticky;
+    align-items: flex-end;
+   
+    color: black;
+    
+}
+=
+    
+    
+
+.input-cont{
+    width: 100%;
+    background-color: grey;
+    color: white;
+    height: 4vh;
+    padding: 3px;
+    border-color: black;
+    margin: 10px;
+    display: flex;
+    align-items: flex-end;
+    
+justify-content: flex-end;
+
+}
+.input{
+    width: 100%;
+    background-color: grey;
+    color: white;
+    height: 4vh;
+    padding: 3px;
+    border-color: black;
+
+}
+.butt{
+    background-color: green;
+    border-radius: 10px;
+    width: 70%;
+    border-width: 0px;
+    height: 5vh;
+    color: white;
+}
+.btn-cont{
+    display: flex;
+    justify-content: end;
+    
+    
+    
+    width: 20%;
+    text-align: center;
+}
+.input-cont{
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    align-items: bottom;
+    width: 100%;
+}

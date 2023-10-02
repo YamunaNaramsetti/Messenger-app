@@ -1,0 +1,14 @@
+.nav{
+    background-color: grey;
+     
+    display: flex; 
+    align-items: flex-start;
+    
+}
+.heading{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    padding-right: 30px;
+    margin-left: 10px;
+}
